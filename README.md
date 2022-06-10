@@ -39,8 +39,7 @@ Note: This function calls the searchProduct() to search the product code and dis
 “buyProduct” that will be called when a customer wants to buy a product form the store. This function receives two 
 arguments:  code  and  quantity.  The  function validates the  product  code  using checkProduct function and should validate the quantity values before accepting them to 
 calculate the total price. 
-The total price (quantity * price of the product) will include Goods and Services Tax (GST) amount  as  well  where  the  GST  rate  is  15%  of  the  total  price. Bbusinesse  wants  to 
-increase the sale so an offer following discount on full GST inclusive price:
+The total price (quantity * price of the product) will include Goods and Services Tax (GST) amount  as  well  where  the  GST  rate  is  15%  of  the  total  price. business  wants  to increase the sale so an offer following discount on full GST inclusive price:
 
 10% discount When a customer buys between 10 and 20 quantities of a 
 products (including the 10 but less than 20).
