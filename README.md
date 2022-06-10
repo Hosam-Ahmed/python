@@ -1,7 +1,7 @@
 # python
 Stock Management Program
 - I have developed a "Stock Management program" for a computer store that stores and manages products listed for sale. 
-- It stores each product with at least five attributes such as code, name, price, and quantity at hand as well as description, size, and color of a product depending on choice. 
+- It stores each product with five attributes barcode, category, brand, price, and quantity at hand.
 - The program stores two attributes: code and quantity of each product along with other attributes. 
 - As code is the unique identifier, the program ensures that each product is stored with a unique code value. 
 - The program will only accept the quantity of a new product between 10 and 50 to ensure there are enough quantities available of a product for sale and, they are not overstocked.
